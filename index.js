@@ -1,7 +1,7 @@
 process.title = 'MyWebServer';
 
 var args = process.argv,
-    port = args[2] || 3000,
+    port = args[2] || 80,
     webServer = require('./server');
 
 webServer.listen(port,function(){
