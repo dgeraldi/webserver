@@ -1,5 +1,5 @@
 {
-    "rootFolder": "./static",
+    "rootFolder": "./pages",
     "defaultIndex": "/index.html",
     "types" : {
         "htm": "text/html",
